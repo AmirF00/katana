@@ -20,3 +20,4 @@ https://google.com
 {"name":"john","age":30}
 {"url":"https://lyft.com/path2","statusCode":301,"aRecord":["18.64.141.7","18.64.141.19","18.64.141.83","18.64.141.100"],"cNames":null,"contentLength":0,"title":"","location":"https://www.lyft.com/path2","path":"/path2","params":null,"tech":["Amazon Cloudfront","Amazon Web Services"]}
 {"url":"https://lyft.com/path2","statusCode":301,"aRecord":["18.64.141.100","18.64.141.19","18.64.141.7","18.64.141.83"],"cNames":null,"contentLength":0,"title":"","location":"https://www.lyft.com/path2","path":"/path2","params":null,"tech":["Amazon Cloudfront","Amazon Web Services"]}
+{"url":"https://lyft.com/path","statusCode":301,"aRecord":["18.64.141.100","18.64.141.19","18.64.141.7","18.64.141.83"],"cNames":null,"contentLength":0,"title":"","location":"https://www.lyft.com/path","path":"/path","params":null,"tech":["Amazon Cloudfront","Amazon Web Services"]}
